@@ -1,1 +1,1 @@
-# ETicaretGiris-Kay-tSimulasyon
+# ETicaretGiris-KayitSimulasyon
