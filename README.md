@@ -14,7 +14,10 @@ Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)
 Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 
+Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
 
+İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
+Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 
 
